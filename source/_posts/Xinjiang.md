@@ -5,7 +5,7 @@ tags:
 - Travel
 - Photography
 categories: Travel # 分类
-thumbnail: https://xxxxxxxxxx.png # 略缩图
+#thumbnail: https://xxxxxxxxxx.png # 略缩图
 ---
 
 文章正文
