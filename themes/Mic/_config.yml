@@ -29,12 +29,8 @@ Nav:
     pages:
         About Me: 
             link: "/about/"
-        Chinese Style :
-            link: "/group/"
         Pet :
-            link: "/gallery/"
-        Travel :
-            link: "/travel/"    
+            link: "/gallery/"   
         Tag:
             link: "/tag/"
         #自定义标签名
@@ -90,7 +86,7 @@ comment:
 #     swiftype | google | local
 search:
     use: google
-    swiftype_key: Just another fine responsive  
+    swiftype_key: #Just another fine responsive  
     
 
 # Leancloud Views

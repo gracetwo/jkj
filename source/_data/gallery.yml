@@ -1,8 +1,12 @@
-图片名称1:
-  full_link: 图片地址
-  thumb_link: 略缩图地址
-  descr: 图片描述
-图片名称2:
-  full_link: 图片地址
-  thumb_link: 略缩图地址
-  descr: 图片描述
+小橘:
+  full_link: https://cdn.jsdelivr.net/gh/gracetwo/tu/14.jpg
+  thumb_link: https://cdn.jsdelivr.net/gh/gracetwo/tu/14.jpg
+  descr: 小橘一岁啦 2019.01.16
+大橘:
+  full_link: https://cdn.jsdelivr.net/gh/gracetwo/tu/18.jpg
+  thumb_link: https://cdn.jsdelivr.net/gh/gracetwo/tu/18.jpg
+  descr: 小橘两岁啦 2020.01.16
+叮叮:
+  full_link: https://cdn.jsdelivr.net/gh/gracetwo/tu/13.jpg
+  thumb_link: https://cdn.jsdelivr.net/gh/gracetwo/tu/13.jpg
+  descr: 我的小狐狸狗，是一只流浪狗，但是今天你将不再流浪 2013.05.24
