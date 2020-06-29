@@ -86,7 +86,7 @@ comment:
 #     swiftype | google | local
 search:
     use: google
-    swiftype_key: #Just another fine responsive  
+    swiftype_key: Just another fine responsive  
     
 
 # Leancloud Views
