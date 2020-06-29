@@ -17,7 +17,7 @@ Nav:
     Home_name: HOMEPAGE
     is_use_categories : true 
     categories_name: CLASSIFICATION
-    is_use_archives : false
+    is_use_archives : true
     archives_name: FILE
     
     #Social
@@ -43,8 +43,8 @@ MainFirst:
     goto_ulr: ""
 
 Gallery :
-    title: Grace
-    #description: 
+    title: GRACE
+    #description: Welcome
 
 # ---------------------------------------------------------------
 # Style Settings
@@ -72,8 +72,8 @@ comment:
     # 使用 valine 请先执行 npm install valine --save
     valine: # Valine Comment System https://github.com/xCss/Valine
        on: true
-       appId: 'your appId'
-       appKey: 'your appkey'
+       appId: 'grace'
+       appKey: 'key'
        notify: true
        verify: false
        placeholder: Please leave your footprints
