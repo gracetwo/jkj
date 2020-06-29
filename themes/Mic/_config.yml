@@ -43,8 +43,8 @@ MainFirst:
     goto_ulr: ""
 
 Gallery :
-    title: Grace 
-    description: My Pets
+    title: Grace
+    #description: 
 
 # ---------------------------------------------------------------
 # Style Settings
